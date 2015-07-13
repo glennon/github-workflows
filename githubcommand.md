@@ -23,7 +23,8 @@ Clone a repository from Github:
 
 6. Go through the pull request process on Github. Be sure to delete the Github (remote) branch manually after your pull request happens.
 
-7. Delete the local branch:  
+7. Delete the local branch. This first checks out the master branch with the intent to keep things straight when you later synchronize the remote Github version. When you delete the local branch, you might receive a warning message that your local changes have not been merged into master -- that is true. You'll add the updated Github  master in the next step:  
+`git checkout master`
 `git branch -d thisisthenewbranchname`  
 
 8. Update your local repository with the latest updates from Github's version:  
