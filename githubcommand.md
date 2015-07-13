@@ -2,7 +2,7 @@
 
 *Prerequisite:*
 Clone a repository from Github:  
-`git clone therepositoryname`
+`git clone https://github.com/glennon/github-workflows.git`
 
 **Workflow**
 
