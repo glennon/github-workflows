@@ -1,10 +1,10 @@
-Combining the Git Command Line with the Github Workflow
+**Combining the Git Command Line with the Github Workflow**
 
-Prerequisite:
+*Prerequisite:*
 Clone a repository from Github:  
 `git clone therepositoryname`
 
-Workflow:
+**Workflow**
 
 1. From within the repository's directory on your local machine, create a branch:  
 `git branch thisisthenewbranchname`
