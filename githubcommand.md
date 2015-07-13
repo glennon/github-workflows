@@ -3,7 +3,7 @@
 It is generally good form to create a branch to make changes to files and code within a repository. The following recipe describes how to use git on the command line to create a new branch, use it, make the changes available on GitHub, and then clean up afterwards.  
 
 *Prerequisite:*
-Clone a repository from Github:  
+Clone a repository from Github. The following line uses this repository, but you would replace that URL with your own repository:  
 `git clone https://github.com/glennon/github-workflows.git`
 
 **Workflow**  
