@@ -9,11 +9,17 @@ Clone a repository from Github. The following line uses this repository, but you
 **Workflow**  
 Along the way, it may be useful to type in: `git status`. It provides git's current status, and often provides helpful hints on what to do next.
 
+1. Change the active directory to the location where you cloned the repository. Drill down the hierarchy by typing `cd ` and the name of the folder. Use `ls` to get a list of the files within that folder. 
+
 1. From within the repository's directory on your local machine, create a branch:  
 `git branch my_new_branch`
 
 2. Checkout the branch:  
 `git checkout my_new_branch`
+
+  Tip: You can use `git checkout -b` to create a branch, if it does not already exist, and switch to it in one step.
+
+  This is a good time for `git status` to ensure that you are working on the branch you intended.
 
 3. Make changes inside the branch (e.g., add code, add files, whatever)
 
