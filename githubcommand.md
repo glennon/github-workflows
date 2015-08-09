@@ -17,7 +17,7 @@ Along the way, it may be useful to type in: `git status`. It provides git's curr
 2. Checkout the branch:  
 `git checkout my_new_branch`
 
-  Tip: You can use `git checkout -b` to create a branch, if it does not already exist, and switch to it in one step.
+  Tip: You can use `git checkout -b my_new_branch` to create a branch, if it does not already exist, and switch to it in one step.
 
   This is a good time for `git status` to ensure that you are working on the branch you intended.
 
