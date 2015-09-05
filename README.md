@@ -5,4 +5,4 @@ The plan is to document my various Github / version control workflows.
 * [githubcommand.md](../master/githubcommand.md) -- integrating the git command line with the GitHub workflow
 
 *To do:*   
-* document how to make additions to an open source project by forking it, making changes, and then submitting changes back to the original project. Use reference: Github bootcamp [documentation on forking](https://help.github.com/articles/fork-a-repo/).
+* document how to make additions to an open source project by forking it, making changes, and then submitting changes back to the original project. Use reference: Github bootcamp [documentation on forking](https://help.github.com/articles/fork-a-repo/). With respect to command line, see: [stackoverflow fork vs clone](http://stackoverflow.com/questions/6286571/git-fork-is-git-clone).
