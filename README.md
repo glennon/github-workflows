@@ -1,5 +1,5 @@
 # GitHub Workflows  
-The plan is to document my various Github / version control workflows.  
+Common Github / version control workflows.  
 
 *Existing doc:*
 * [githubcommand.md](../master/githubcommand.md) -- integrating the git command line with the GitHub workflow
