@@ -4,8 +4,10 @@
 A combined GitHub / local command line approach
 
 to do:  
-* write an outline
+* note: this is a preliminary draft... not even close to finished.
+* write an outline of fork/clone steps (consider a few use cases)
 * describe steps in sentence/narrative form
+* QA/QC
 
 This document describes two different workflows to fork and/or clone an existing project-- allowing you to contribute your own materials to the repo and submit the changes back to the original project.  
 
