@@ -3,3 +3,7 @@
 
 A combined GitHub / local command line approach
 
+to do:  
+* write an outline
+* describe steps in sentence/narrative form
+
