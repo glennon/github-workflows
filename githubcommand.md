@@ -28,7 +28,7 @@ Along the way, it may be useful to type in: `git status`. It provides git's curr
 `git commit -m "the commit message"`  
 
 5. Send your local branch to GitHub:  
-`git push --set-upstream origin my_new_branch`  
+`git push --set-upstream origin my_new_branch`  or `git push -u origin my_new_branch`
 
 6. Go through the pull request process on Github. Be sure to delete the Github (remote) branch manually after your pull request happens.
 
