@@ -16,6 +16,3 @@ When a project is cloned or forked in GitHub, the default settings are for your 
 GitHub has automated much of this workflow. On GitHub.com, if you begin editing a file within a repository which you do not have write permission, the system will create a fork of the repository under your account. At the top of the editing page, you are likely to see the message: <blockquote>You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.</blockquote>
 
 If you save your edit (propose a change), the fork will be created and a typical pull request (a *Comparing changes* page) from your fork to the original fork is initiated. GitHub calls the original repo the <i>base fork</i> and the modified version in your account, the <i>head fork</i>. When the pull request starts, notice that the path to the head fork includes your account name.
-
-*Note:* 
-
