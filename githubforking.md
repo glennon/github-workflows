@@ -4,8 +4,8 @@ There are two common use cases for forking a GitHub repository, to:
 * Make personalizations and customizations
 * Contribute code to others' projects
 
-**Customizing and personalizing a repository**  
-Many repos possess functionality that are suited for individual personalization and customization. For example, a repo might possess a webpage template, and your personalizations would be inappropriate to push back to the original source. When using other people's code, make sure its license is compatible with your intended use.  
+**Customizing and personalizing a repository**
+Many repos possess functionality that are suited for individual personalization and customization. For example, a repo might possess a webpage template, and your personalizations would be inappropriate to push back to the original source. In other cases, you might want to use someone else's open source project as a starting point to pursue your own idea. When using other people's code, make sure its license is compatible with your intended use.  
 
 The workflow for this case is:  
 * from the repo's GitHub page, to press the Fork button in the upper right of the user interface. GitHub will place a copy of the repository into your account. 
@@ -17,3 +17,6 @@ Note: It is possible to change the original *base fork* location and reassign it
 GitHub has automated much of this workflow. On GitHub.com, if you begin editing a file within a repository which you do not have write permission, the system will create a fork of the repository under your account. At the top of the editing page, you are likely to see the message: <blockquote>You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.</blockquote>
 
 If you save your edit (propose a change), the fork will be created and a typical pull request (a *Comparing changes* page) from your fork to the original fork is initiated. GitHub calls the original repo the <i>base fork</i> and the modified version in your account, the <i>head fork</i>. When the pull request starts, notice that the path to the head fork includes your account name.
+
+**Keeping your fork synced**
+See: https://help.github.com/articles/fork-a-repo/
