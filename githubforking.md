@@ -18,5 +18,5 @@ GitHub has automated much of this workflow. On GitHub.com, if you begin editing 
 
 If you save your edit (propose a change), the fork will be created and a typical pull request (a *Comparing changes* page) from your fork to the original fork is initiated. GitHub calls the original repo the <i>base fork</i> and the modified version in your account, the <i>head fork</i>. When the pull request starts, notice that the path to the head fork includes your account name.
 
-**Keeping your fork synced**
+**Keeping your fork synced**  
 See: https://help.github.com/articles/fork-a-repo/
