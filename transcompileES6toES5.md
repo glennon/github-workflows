@@ -10,7 +10,7 @@ npm install babel-cli -D
 npm install babel-preset-env -D
 ```
 
-4. Create a *.babelrc* file and insert this text into it:  
+4. Create a *.babelrc* file (`touch .babelrc`) and insert this text into it:  
 ```javascript
 {
   "presets": ["env"]
