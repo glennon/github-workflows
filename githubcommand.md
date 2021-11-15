@@ -33,7 +33,7 @@ Along the way, it may be useful to type in: `git status`. It provides git's curr
 6. Go through the pull request process on Github. Be sure to delete the Github (remote) branch manually after your pull request happens.
 
 7. Delete the local branch. The first line of code below checks out the master branch with the intent to keep things straight when you later synchronize the remote Github version. When you delete the local branch in the second line of code below, you might receive a warning message that your local changes have not been merged into master -- that is true. You will add the updated Github  master in the next step:  
-`git checkout master`  
+`git checkout main`  
 `git branch -d my_new_branch`  
 
 8. Update your local repository with the latest updates from Github's version:  
